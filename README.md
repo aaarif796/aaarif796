@@ -1,10 +1,11 @@
 <h1 align="center">Greetings, I'm Mohammad Aarif Ansari</h1>
-<h3 align="center">AI Enthusiast with a Passion for Machine Learning, Python, and Computer Vision, Aspiring to Excel in Software Engineering. Eager to learn and adapt to new technologies.</h3>
+<h3 align="center">AI Enthusiast | Machine Learning & Python Expert | Skilled in Computer Vision, LLMs & Transformers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaarif796&label=Profile%20views&color=0e75b6&style=flat" alt="aaarif796" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision, GANs,etc.**
-
+- Experienced in building scalable REST APIs with Django & Flask.
+- Proficient in data science, natural language processing, and deep learning models.
+- Passionate about innovation, continuously adapting to new technologies in software engineering.
 - 📫 How to reach me **mohammadaarif9757@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
